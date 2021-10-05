@@ -1,7 +1,7 @@
 # 3D-Maze-Game
 A 3D Maze Game Created in Unity for my year 12 Major Project in SDD
 
-Language used: C# and a little bit of glsl
+Language used: C# and a little bit of GLSL
 
 Character Movement was coded in C#:
 
