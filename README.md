@@ -3,7 +3,18 @@ A 3D Maze Game Created in Unity for my year 12 Major Project in SDD
 
 Language used: C# and a little bit of GLSL
 
-The background and the scenery was made using unity's block
+The background and the scenery was made using unity's block which I referred from watching this tutorial: 
+https://www.youtube.com/watch?v=E3ujH-6lwnY&t=1s
+
+I watched some YouTube tutorial on how to improve my prototype by adding a background music
+and a game menu and how to make the wall solid, so when the character collide the wall does not
+see through.
+https://www.youtube.com/watch?v=4ajKz5lZvNQ&t=2s
+https://www.youtube.com/watch?v=4Xfb8m3azfg
+https://www.youtube.com/watch?v=0dcANRNI9a0&t=2s
+https://www.youtube.com/watch?v=diwkdw1v_GA
+https://www.youtube.com/watch?v=BKCsH8mQ-lM
+https://www.youtube.com/watch?v=eB3I4l0AED0
 
 Character Movement was coded in C#:
 
