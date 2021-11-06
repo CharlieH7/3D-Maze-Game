@@ -1,4 +1,6 @@
 # 3D-Maze-Game
+Please download the whole 3D maze Folder and import in Unity
+
 A 3D Maze Game Created in Unity for my year 12 Major Project in SDD
 
 Language used: C# and a little bit of GLSL
